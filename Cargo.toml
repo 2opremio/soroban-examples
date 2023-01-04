@@ -22,6 +22,7 @@ members = [
     "logging",
     "errors",
     "wallet",
+    "sac_test",
 ]
 
 [profile.release-with-logs]

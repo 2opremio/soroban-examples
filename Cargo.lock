@@ -985,6 +985,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "soroban-sac-test"
+version = "0.0.0"
+dependencies = [
+ "soroban-auth",
+ "soroban-sdk",
+]
+
+[[package]]
 name = "soroban-sdk"
 version = "0.3.2"
 source = "git+https://github.com/stellar/rs-soroban-sdk?rev=0574143#05741435ec894265f0b06d0e9500af52bbaa5621"
